@@ -4,4 +4,4 @@ I am a Software Engineer at Vanguard. I graduated from Purdue University with a 
 
 - 🔭 I’m currently working on building APIs and other backend infra
 - 🌱 I’m currently learning about agentic AI and machine learning
-- 📫 How to reach me: LinkedIn or GitHub issues
+- 📫 How to reach me: LinkedIn
